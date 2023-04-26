@@ -2,10 +2,9 @@ module github.com/monzo/envoy-preflight
 
 go 1.20
 
-require (
-	github.com/cenk/backoff v2.1.1+incompatible
-	github.com/monzo/typhon v1.1.7
-)
+require github.com/monzo/typhon v1.1.7
+
+require github.com/cenkalti/backoff/v4 v4.2.1
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
