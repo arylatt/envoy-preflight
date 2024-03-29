@@ -18,7 +18,7 @@ github.com/monzo/slog
 github.com/monzo/terrors
 github.com/monzo/terrors/proto
 github.com/monzo/terrors/stack
-# github.com/monzo/typhon v1.1.7
+# github.com/monzo/typhon v1.1.8
 ## explicit; go 1.19
 github.com/monzo/typhon
 # github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
