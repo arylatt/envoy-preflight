@@ -4,7 +4,7 @@ go 1.20
 
 require github.com/monzo/typhon v1.1.8
 
-require github.com/cenkalti/backoff/v4 v4.2.1
+require github.com/cenkalti/backoff/v4 v4.3.0
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
