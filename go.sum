@@ -15,8 +15,8 @@ github.com/monzo/slog v0.0.0-20211123154010-52a5ddb2ba55 h1:znGCaEAI25n8GJ7G1IIH
 github.com/monzo/slog v0.0.0-20211123154010-52a5ddb2ba55/go.mod h1:WLNpEHhXIwQynoqjGY9HxPbseatrTIBTbG1Rij/oCXY=
 github.com/monzo/terrors v0.0.0-20230309194234-a3df3e6f2be0 h1:/AagJl2u8+xEck++xVBERRW9cDrYzgNpWhq7i21BZGs=
 github.com/monzo/terrors v0.0.0-20230309194234-a3df3e6f2be0/go.mod h1:nyaPwtZHdNA0F89nwV24ePEsxKlmV3i1dwBxajbqaM8=
-github.com/monzo/typhon v1.1.8 h1:ei1tEhmySznkdE+l8z8eHpSYE6JpKQAf9OTNtKNnp30=
-github.com/monzo/typhon v1.1.8/go.mod h1:djt8UI0f5Ul5Ue+6PmnXPcLbAo04X85xn7mPHQ5++tc=
+github.com/monzo/typhon v1.1.9 h1:CIT6OG9fmwPzisMfgcZ8z4mZ9i99f9Ya2Dxky2RRoc8=
+github.com/monzo/typhon v1.1.9/go.mod h1:djt8UI0f5Ul5Ue+6PmnXPcLbAo04X85xn7mPHQ5++tc=
 github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d h1:VhgPp6v9qf9Agr/56bj7Y/xa04UccTW04VP0Qed4vnQ=
 github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d/go.mod h1:YUTz3bUH2ZwIWBy3CJBeOBEugqcmXREj14T+iG/4k4U=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
