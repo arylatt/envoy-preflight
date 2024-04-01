@@ -2,7 +2,7 @@ module github.com/monzo/envoy-preflight
 
 go 1.20
 
-require github.com/monzo/typhon v1.1.8
+require github.com/monzo/typhon v1.1.9
 
 require github.com/cenkalti/backoff/v4 v4.2.1
 
